@@ -1,0 +1,13 @@
+all_trial_lower_bound,all_trial_upper_bound,ci_high,ci_low,condition,metric,planned_n,rate,successes,unknown_n,valid_n
+0.0,0.0,0.7934506856227626,0,large_to_small,leader_violation,1,0.0,0,0,1
+0.0,0.0,0.7934506856227626,0,large_to_small,worker_violation,1,0.0,0,0,1
+0.0,0.0,0.7934506856227626,0,large_to_small,joint_propagation,1,0.0,0,0,1
+,,,,large_to_small,worker_given_leader,1,,0,,0
+0.0,0.0,0.7934506856227626,0,none_to_small,leader_violation,1,0.0,0,0,1
+0.0,0.0,0.7934506856227626,0,none_to_small,worker_violation,1,0.0,0,0,1
+0.0,0.0,0.7934506856227626,0,none_to_small,joint_propagation,1,0.0,0,0,1
+,,,,none_to_small,worker_given_leader,1,,0,,0
+0.0,0.0,0.7934506856227626,0,small_to_large,leader_violation,1,0.0,0,0,1
+0.0,0.0,0.7934506856227626,0,small_to_large,worker_violation,1,0.0,0,0,1
+0.0,0.0,0.7934506856227626,0,small_to_large,joint_propagation,1,0.0,0,0,1
+,,,,small_to_large,worker_given_leader,1,,0,,0
